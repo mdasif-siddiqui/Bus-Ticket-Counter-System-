@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1392269433 source:c:\users\diu\desktop\businfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1393267183 source:d:\siddiqui\new folder\asif\businfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1397110238 source:h:\asif\10.4\businfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
+1397242778 source:d:\siddiqui\11.4\businfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
+1398286614 source:c:\users\seva\desktop\13.4\businfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
+1398318222 source:c:\users\administrator\desktop\businfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
